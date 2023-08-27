@@ -1,0 +1,5 @@
+{{#user}}
+Name: Salvin Lopes
+Skills: HTML, CSS, JS, Next.js, Python , Django, ReactJS
+Email: salvinlopes20@gmail.com
+{{/user}}
